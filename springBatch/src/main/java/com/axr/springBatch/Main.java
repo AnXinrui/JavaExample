@@ -1,10 +1,10 @@
-package com.axr.example;
+package com.axr.springBatch;
 
 /**
  * @author xinrui.an
- * @date 2025/02/10
+ * @date 2025/03/21
  */
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+    //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {

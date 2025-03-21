@@ -1,4 +1,4 @@
-package com.axr.example.common;
+package com.axr.common;
 
 
 import lombok.AllArgsConstructor;

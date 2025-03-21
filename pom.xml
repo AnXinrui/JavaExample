@@ -9,9 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>JetcacheDemo</module>
-        <module>Example</module>
+        <module>practice</module>
         <module>excercise</module>
+        <module>common</module>
+        <module>springBatch</module>
     </modules>
 
     <properties>
